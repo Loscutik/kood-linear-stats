@@ -15,4 +15,7 @@ You can read the [audit](https://github.com/01-edu/public/tree/master/subjects/l
 - give executable permissions (if needed)
 - run the script with `./linear-stats`
 - run the program with the created file (data.txt) by the previous command: `go run . data.txt`
-- compare results
+- compare results.
+
+## Author
+Olena Budarahina ([obudarah](https://01.kood.tech/git/obudarah))
