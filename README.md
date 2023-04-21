@@ -1,4 +1,4 @@
-#Linear-statics
+# Linear-statics
 
 The program reads the data from a file passed as an argument and calculates and prints the Linear Regression Line and the Pearson Correlation Coefficent.
 
@@ -9,6 +9,7 @@ Usage `go run . path_txt_file`
 for example `go run . data.txt`
 
 ## Testing
+You can read the [audit](https://github.com/01-edu/public/tree/master/subjects/linear-stats/audit) page or follow the steps:
 
 - download the [file](https://assets.01-edu.org/stats-projects/linear-stats) 
 - give executable permissions (if needed)
